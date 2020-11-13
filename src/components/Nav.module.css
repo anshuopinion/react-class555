@@ -1,0 +1,16 @@
+.nav {
+  background-color: rgb(71, 170, 252);
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  color: #fff;
+}
+
+.nav li:hover {
+  color: #000;
+}
+.list {
+  display: flex;
+  justify-content: space-around;
+  width: 300px;
+}
